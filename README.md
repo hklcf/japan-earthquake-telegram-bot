@@ -34,3 +34,8 @@ if (magnitude > 4 || maxIntensity > 4) {
 } else {
   sendTelegramMessage(message, false);
 }
+```
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
